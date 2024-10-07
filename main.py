@@ -1,13 +1,6 @@
 print("begin")
 print("hello world")
-
-
-def func():
-    return 1
-
-
-
-print("end!")
+print("end!!!")
 
 def set():
     print("hello world")
